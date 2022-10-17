@@ -1,0 +1,5 @@
+python-typer (100:0.5.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/tiangolo/typer/releases/tag/0.5.0
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Thu, 07 Jul 2022 07:22:36 +0800
