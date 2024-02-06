@@ -1,0 +1,5 @@
+python-typer source: file-without-copyright-information
+python-typer source: no-debian-changes
+python-typer source: source-contains-prebuilt-windows-binary
+python-typer source: source-is-missing
+python-typer source: source-package-encodes-python-version
