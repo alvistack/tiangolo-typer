@@ -1,0 +1,4 @@
+python3-typer: copyright-without-copyright-notice
+python3-typer: initial-upload-closes-no-bugs
+python3-typer: no-manual-page
+python3-typer: zero-byte-file-in-doc-directory
