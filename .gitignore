@@ -11,4 +11,5 @@ site
 htmlcov
 .pytest_cache
 coverage.xml
-.coverage*
+*.egg-info
+.pybuild/
