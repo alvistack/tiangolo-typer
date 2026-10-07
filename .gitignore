@@ -12,3 +12,5 @@ htmlcov
 coverage.xml
 .coverage*
 .cache
+*.egg-info
+.pybuild/
